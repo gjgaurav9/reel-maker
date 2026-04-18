@@ -1,0 +1,8 @@
+node_modules/
+dist/
+output/
+.env
+*.mp3
+*.mp4
+.superset/
+.DS_Store
